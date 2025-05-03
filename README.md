@@ -30,7 +30,9 @@ Los pasos para realizar el proyecto han sido los siguientes:
 
 ## Esquema
 
-
+<div style="text-align: center;">
+   <img src="Esquema_Proyecto_SQL.png" alt="Esquema" />
+   </div>
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, no dudes en ponerte en contacto conmigo o enviar tus ideas.
