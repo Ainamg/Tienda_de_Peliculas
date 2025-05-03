@@ -1,4 +1,4 @@
-# Tienda_de_Peliculas
+# Tienda de Peliculas
 
 ## Descripción del Proyecto
 Proyecto de SQL para realizar consultas sobre la base de datos de una tienda de películas.
