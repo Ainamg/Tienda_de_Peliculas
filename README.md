@@ -6,11 +6,11 @@ Proyecto de SQL para realizar consultas sobre la base de datos de una tienda de 
 ## Estructura
 
 ```bash
-DataProject-Lógica. Cosnultas de SQL
-|- EnunciadoDataProject_SQL.Lógica.pdf  # Consultas a realizar con la BBDD de la tienda de peliculas
+DataProject-Lógica. Consultas de SQL
+|- EnunciadoDataProject_SQL.Lógica.pdf  # Consultas a realizar en la BBDD de la tienda de peliculas
 |- BBDD_Proyecto.sql  # Datos tienda
 |- Esquema_Proyecto_SQL.png  # Visualización de las tablas de nuestros datos
-|- Proyecto_SQL.sql  # Script con als consultas
+|- Proyecto_SQL.sql  # Script con las consultas
 |_ README.md
 ```
 
@@ -18,7 +18,7 @@ DataProject-Lógica. Cosnultas de SQL
 
 Este proyecto usa PostgreSQL y DBeaver.
 
-Los pasos para realizar las consultas han sido:
+Los pasos para realizar el proyecto han sido los siguientes:
 - Crear repositorio en GitHub (Tienda-de-películas) para explicar todos los pasos y subir los archivos utilizados para el proyecto final del módulo de SQL.
 - Crear la carpeta del proyecto final
 - Descargar la base de datos con la que vamos a trabajar y guardarla en la carpeta del proyecto final.
